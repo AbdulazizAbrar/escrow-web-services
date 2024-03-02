@@ -1,0 +1,30 @@
+/* CSS styles for the webpage */
+
+header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.jumbotron {
+    background-image: url('background-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.feature-box {
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+#contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
